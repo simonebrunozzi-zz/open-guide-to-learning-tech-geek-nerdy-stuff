@@ -219,6 +219,7 @@ The author(s) expressly disclaim all liability in respect of any actions taken o
 
 ## License
 [![Creative Commons License](http://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
 This work is licensed under a Creative Commons CC0 1.0 Universal (CC0 1.0) license.
 License details [are available here](https://github.com/simonebrunozzi/open-guide-to-learning-tech-geek-nerdy-stuff/blob/master/LICENSE).
 
