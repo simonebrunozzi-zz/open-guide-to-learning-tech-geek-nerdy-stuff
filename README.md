@@ -53,19 +53,20 @@ Over time, my hope is that these contribution will make this list of resources v
 
 ### Principles behind adding new stuff
 The principles behind adding a new link (or a new category) are the following:
-1) You can propose a new category if it belongs to the same tech/geek/nerd stuff.
 
-2) You can propose a new "link", by actually simply adding
+1. You can propose a new category if it belongs to the same tech/geek/nerd stuff.
 
-$category: $succint_description $link 
+2. You can propose a new "link", by actually simply adding
 
-(e.g. Video games and AI: http://togelius.blogspot.com/2016/01/why-video-games-are-essential-for.html)
+        $category: $succint_description $link
 
-If your link points to a discussion, which then points to the actual resource, such as in the case of a Hacker News discussion, you can simply write this: 
+   (e.g. `Video games and AI: http://togelius.blogspot.com/2016/01/why-video-games-are-essential-for.html`)
 
-$category: $succint_description $link-to-discussion and $link-to-resource 
+   If your link points to a discussion, which then points to the actual resource, such as in the case of a Hacker News discussion, you can simply write this:
 
-(e.g. Berkeley AI Materials: https://news.ycombinator.com/item?id=10929985 and http://ai.berkeley.edu/project_overview.html)
+        $category: $succint_description $link-to-discussion and $link-to-resource
+
+   (e.g. `Berkeley AI Materials: https://news.ycombinator.com/item?id=10929985 and http://ai.berkeley.edu/project_overview.html`)
 
 # Content starts here
 
