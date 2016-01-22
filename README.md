@@ -96,6 +96,7 @@ The principles behind adding a new link (or a new category) are the following:
 ## Cloud Computing
 - Learn Mesos: http://open.mesosphere.com/intro-course/
 - Learn cloud computing: https://cloudacademy.com
+- Dynamo: Amazon's Highly Available Key-value Store: http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
 
 ## Command Line
 - Learn code the hard way: http://cli.learncodethehardway.org/book/
@@ -116,6 +117,8 @@ The principles behind adding a new link (or a new category) are the following:
 - Computer Science for all: http://www.cs.hmc.edu/csforall/
 - Math for Computer Science: https://news.ycombinator.com/item?id=9311752 and http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/
 - What is code - http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
+- A plain english introduction to CAP Theorem: http://ksat.me/a-plain-english-introduction-to-cap-theorem/
+- Critique to the CAP Theorem: http://markburgess.org/blog_cap.html
 
 ## Containers
 - Docker for beginners: http://prakhar.me/docker-curriculum/
@@ -164,6 +167,7 @@ http://phili.pe/posts/postgresql-on-the-command-line/
 - Python the hard way: http://learnpythonthehardway.org/book/ (3rd edition)
 - Norvig's python stuff: http://nbviewer.ipython.org/url/norvig.com/ipython/Probability.ipynb
 - IDLE Python: http://www.tkdocs.com/tutorial/idle.html
+- The Zen of Python: https://www.python.org/dev/peps/pep-0020/
 
 ## Unix
 - Bro pages: http://bropages.org/browse
@@ -199,6 +203,7 @@ http://blog.rust-lang.org/2015/04/24/Rust-Once-Run-Everywhere.html
 - Erlang / Elixir: https://news.ycombinator.com/item?id=9426103
 - Competence Matrix: http://sijinjoseph.com/programmer-competency-matrix/
 - Data Science masters: http://datasciencemasters.org/
+- Bitcoin: https://bitcoin.org/bitcoin.pdf
 
 ## Further reading
 n.a.
