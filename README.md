@@ -93,7 +93,7 @@ $category: $succint_description $link-to-discussion and $link-to-resource
 
 ## Cloud Computing
 - Learn Mesos: http://open.mesosphere.com/intro-course/
-- Learn cloud computing: http://www.cloudacademy.com
+- Learn cloud computing: https://cloudacademy.com
 
 ## Command Line
 - Learn code the hard way: http://cli.learncodethehardway.org/book/
