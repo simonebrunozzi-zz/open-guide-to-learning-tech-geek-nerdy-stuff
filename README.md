@@ -7,6 +7,7 @@ A list of resources to learn tech/geek/nerdy related topics, e.g. programming la
   - [Android](#android)
   - [Artificial Intelligence](#artificial-intelligence)
   - [Assembler](#assembler)
+  - [Cloud Computing](#cloud-computing)
   - [Command Line](#command-line)
   - [Compilers](#compilers)
   - [Computer science](#computer-science)
