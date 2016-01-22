@@ -89,6 +89,7 @@ The principles behind adding a new link (or a new category) are the following:
 - Artificial Neural Networks for beginners: http://blogs.mathworks.com/loren/2015/08/04/artificial-neural-networks-for-beginners/
 - Machine learning: https://news.ycombinator.com/item?id=9920529 and http://www.computervisiontalks.com/tag/machine-learning-class-10-701/
 - Machine Learning: https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
+- Google's free Deep Learning course: https://www.udacity.com/course/deep-learning--ud730
 
 ## Assembler
 - CROBOTS (1985) (like CoreWar): https://news.ycombinator.com/item?id=10331849 and http://tpoindex.github.io/crobots/
