@@ -1,9 +1,36 @@
 # Open Guide To Learning Tech/Geek/Nerdy Stuff
 A list of resources to learn tech/geek/nerdy related topics, e.g. programming languages, android development, math, korean language and the like.
 
+## Introduction
+
+Over time I've built a decent list of links to web resources which contain good material to learn stuff.
+
+What stuff? "Tech" stuff (like Python, BSD, Vim, Security, Javascript, Unix), or other geeky/nerdy stuff (math, how to learn the Korean language, Philosophy, etc).
+
+Two quick examples of how one of these entries look like: 
+
+```
+BSD: https://hardenedbsd.org/
+```
+
+```
+Learn Korean: https://news.ycombinator.com/item?id=9935042
+```
+
+To avoid confusion, links are grouped into categories.
+
+### Making this list publicly available, and letting everyone collaborate
+I think it is valuable to make this list available to everyone, and most importantly, open to anyone's contribution.
+If you know how to use Github, it should be easy for you to add your own links.
+Over time, my hope is that these contribution will make this list of resources very useful as a good "filter" to find just the good stuff.
+
+Want to contribute? [Go here to read how to](https://github.com/simonebrunozzi/open-guide-to-learning-tech-geek-nerdy-stuff/blob/master/CONTRIBUTING.md), and make sure you respect the [code of conduct](https://github.com/simonebrunozzi/open-guide-to-learning-tech-geek-nerdy-stuff/blob/master/CODE-OF-CONDUCT.md).
+
+Any contribution will be released under the same [license](https://github.com/simonebrunozzi/open-guide-to-learning-tech-geek-nerdy-stuff/blob/master/LICENSE).
+
+
 **Table of Contents**
 
-  - [Introduction](#introduction)
   - [Android](#android)
   - [Artificial Intelligence](#artificial-intelligence)
   - [Assembler](#assembler)
@@ -27,49 +54,6 @@ A list of resources to learn tech/geek/nerdy related topics, e.g. programming la
   - [Disclaimer](#disclaimer)
   - [License](#license)
 
-## Introduction
-
-Over time I've built a decent list of links to web resources which contain good material to learn stuff.
-
-What stuff? "Tech" stuff (like Python, BSD, Vim, Security, Javascript, Unix), or other geeky/nerdy stuff (math, how to learn the Korean language, Philosophy, etc).
-
-An example of one of these links could be a simple line like this, with a few words to describe what it is, and the actual link:
-- BSD: https://hardenedbsd.org/
-
-Or like this:
-- Learn Korean: https://news.ycombinator.com/item?id=9935042
-
-When there were multiple links related to the same topic, I would put them together (in no particular order) under a category, such as this:
-
-**Python**
-
-- Tutorials to learn Python: https://news.ycombinator.com/item?id=10135935
-- Python Sudoku: http://norvig.com/sudoku.html
-- Python IDE: http://pybee.org/
-
-### Making this list publicly available, and letting everyone collaborate
-I think it is valuable to make this list available to everyone, and most importantly, open to anyone's contribution.
-If you know how to use Github, it should be easy for you to add your own links.
-Over time, my hope is that these contribution will make this list of resources very useful as a good "filter" to find just the good stuff.
-
-### Principles behind adding new stuff
-The principles behind adding a new link (or a new category) are the following:
-
-1. You can propose a new category if it belongs to the same tech/geek/nerd stuff.
-
-2. You can propose a new "link", by actually simply adding
-
-        $category: $succint_description $link
-
-   (e.g. `Video games and AI: http://togelius.blogspot.com/2016/01/why-video-games-are-essential-for.html`)
-
-   If your link points to a discussion, which then points to the actual resource, such as in the case of a Hacker News discussion, you can simply write this:
-
-        $category: $succint_description $link-to-discussion and $link-to-resource
-
-   (e.g. `Berkeley AI Materials: https://news.ycombinator.com/item?id=10929985 and http://ai.berkeley.edu/project_overview.html`)
-
-# Content starts here
 
 ## Android
 - Android apps: https://www.youtube.com/playlist?list=PLGLfVvz_LVvSPjWpLPFEfOCbezi6vATIh
