@@ -15,27 +15,28 @@ The principles behind adding a new link (or a new category) are the following:
 
 
 ```
-$category: $succint_description $link
+[$succint_description]($link)
 ```
 
 Example:
 
 ```
-Video games and AI: http://togelius.blogspot.com/2016/01/why-video-games-are-essential-for.html
+[Video games and AI](http://togelius.blogspot.com/2016/01/why-video-games-are-essential-for.html)
 ```
 
 If your link points to a discussion, which then points to the actual resource, such as in the case of a Hacker News discussion, you can simply write:
 
 ```
-$category: $succint_description: $link-to-discussion and $link-to-resource
+[$succint_description]($link-to-resource) ([HN discussion]($link-to-discussion))
 ```
 
 Example:
+
 ```
-Berkeley AI Materials: https://news.ycombinator.com/item?id=10929985 and http://ai.berkeley.edu/project_overview.html
+[Berkeley AI Materials](http://ai.berkeley.edu/project_overview.html) ([HN discussion](https://news.ycombinator.com/item?id=10929985))
 ```
 
-If you want to specify the file format (e.g. PDF), you can add it after the $succint_description, but before the `:`.
+If you want to specify the file format (e.g. PDF), you can add it after the `$succint_description`.
 
 ## Editing/formatting Guidelines
 - We typically don't like files hosted on "temporary" locations, e.g. google drive, dropbox, mega, etc.
