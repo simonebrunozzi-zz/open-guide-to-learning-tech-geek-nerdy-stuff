@@ -166,6 +166,12 @@ http://phili.pe/posts/postgresql-on-the-command-line/
 - Study Vim: https://danielmiessler.com/study/vim/
 - Vim galore: https://github.com/mhinz/vim-galore
 
+## Working in the US
+- Calculating the federal income tax: https://www.khanacademy.org/economics-finance-domain/core-finance/taxes-topic/taxes/v/calculating-federal-taxes-and-take-home-pay
+- 2016 federal tax rates: http://www.forbes.com/sites/kellyphillipserb/2015/10/21/irs-announces-2016-tax-rates-standard-deductions-exemption-amounts-and-more/
+- California standard deductions: https://www.ftb.ca.gov/individuals/faq/net/902.shtml
+- California tax brackets: http://www.tax-brackets.org/californiataxtable
+
 ## Miscellaneous
 - How to minimize procrastination: https://myelin.io/how-to-minimize-procrastination
 - How to learn efficiently: https://news.ycombinator.com/item?id=8815148 and http://lemire.me/blog/2014/12/30/how-to-learn-efficiently/
