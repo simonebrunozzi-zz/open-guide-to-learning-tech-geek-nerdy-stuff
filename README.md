@@ -139,6 +139,7 @@ Any contribution will be released under the same [license](https://github.com/si
 - [PostgreSQL command line](http://phili.pe/posts/postgresql-on-the-command-line/) ([HN discussion](https://news.ycombinator.com/item?id=10458866))
 - [SQL tabs (PostgreSQL)](http://www.sqltabs.com/) ([HN discussion](https://news.ycombinator.com/item?id=10802631))
 - [Embracing SQL in PostgreSQL](http://rob.conery.io/2015/02/24/embracing-sql-in-postgres/)
+- [Curated list of great PostgreSQL resources](https://github.com/dhamaniasad/awesome-postgres)
 
 ## Python
 - [Learn Python](http://aysinoruz.com/i-taught-myself-python-on-the-internet-and-so-can-you/)
