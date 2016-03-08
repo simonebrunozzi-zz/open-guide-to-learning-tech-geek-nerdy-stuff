@@ -181,6 +181,7 @@ Any contribution will be released under the same [license](https://github.com/si
 - [Math](http://www.math.ucla.edu/~tao/preprints/problem.ps) ([HN discussion](https://news.ycombinator.com/item?id=9942638))
 - [React.js fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
 - [Learning Paths by O'Reilly](http://shop.oreilly.com/category/learning-path.do)
+- [DevOps Wiki](https://github.com/Leo-G/DevopsWiki/blob/master/README.md)
 
 ## Temporary or unorganized
 - [Entrepreneur](https://www.udacity.com/course/tech-entrepreneur-nanodegree--nd007)
