@@ -131,6 +131,7 @@ Any contribution will be released under the same [license](https://github.com/si
 - [Grand Javascript school](http://raganwald.com/2015/04/24/hilberts-school.html) ([HN discussion](https://news.ycombinator.com/item?id=9439479))
 - [Javascript game development](http://codeincomplete.com/games/)
 - [Write Pacman in Javascript](http://www.masswerk.at/JavaPac/pacman-howto.html)
+- [You don't know Javascript](https://github.com/getify/You-Dont-Know-JS)
 
 ## Postgresql
 - [Postgres guide](http://www.postgresguide.com/) ([HN discussion](https://news.ycombinator.com/item?id=9993237))
