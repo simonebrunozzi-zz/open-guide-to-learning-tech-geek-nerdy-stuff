@@ -199,6 +199,7 @@ Any contribution will be released under the same [license](https://github.com/si
 - [Competence Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 - [Data Science masters](http://datasciencemasters.org/)
 - [Bitcoin](https://bitcoin.org/bitcoin.pdf)
+- [RegEx crossword](https://regexcrossword.com/)
 
 ## Further reading
 n.a.
