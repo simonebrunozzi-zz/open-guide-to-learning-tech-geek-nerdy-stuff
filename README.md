@@ -200,6 +200,7 @@ Any contribution will be released under the same [license](https://github.com/si
 - [Data Science masters](http://datasciencemasters.org/)
 - [Bitcoin](https://bitcoin.org/bitcoin.pdf)
 - [RegEx crossword](https://regexcrossword.com/)
+- [Scala](https://scala.epfl.ch/)
 
 ## Further reading
 n.a.
