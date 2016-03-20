@@ -183,6 +183,7 @@ Any contribution will be released under the same [license](https://github.com/si
 - [React.js fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
 - [Learning Paths by O'Reilly](http://shop.oreilly.com/category/learning-path.do)
 - [DevOps Wiki](https://github.com/Leo-G/DevopsWiki/blob/master/README.md)
+- [Computer Science video lectures](http://csvideolectures.com/)
 
 ## Temporary or unorganized
 - [Entrepreneur](https://www.udacity.com/course/tech-entrepreneur-nanodegree--nd007)
